@@ -1,13 +1,14 @@
 # Satyajit Puhan
 
-Institute of Physics, Academia Sinica, Taipei · [satyajitpuhan.github.io](https://satyajitpuhan.github.io)
+Institute of Physics, Academia Sinica, Taipei · [satyajitpuhan.github.io](https://satyajitpuhan.github.io)  
+Contact: puhansatyajit@gmail.com · WhatsApp +886-919 479 591
 
 I work on the structure of hadrons on the light front: form factors, PDFs, GPDs, TMDs, distribution amplitudes and decays of
 mesons, nucleons and light nuclei. Most of what is below I do for fun.
 
 ## Research projects
 
-The figures are public; the code is private and available on request.
+The figures are public; the code is private and available on request. If you use any of the figures or the code, please cite the repository. If you follow research ethics, I will be happy to work with you.
 
 | project | what it is |
 |---|---|
