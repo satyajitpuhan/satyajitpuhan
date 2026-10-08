@@ -8,7 +8,7 @@ mesons, nucleons and light nuclei. Most of what is below I do for fun.
 
 ## Research projects
 
-The figures are public; the code is private and available on request. If you use any of the figures or the code, please cite the repository. If you follow research ethics, I will be happy to work with you.
+The figures are public and the code is private. If you use any of the figures or the code, please cite the repository. If you follow research ethics, I will be happy to work with you and to share the code along with the notes.
 
 | project | what it is |
 |---|---|
