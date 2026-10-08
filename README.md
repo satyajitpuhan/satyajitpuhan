@@ -8,21 +8,11 @@ mesons, nucleons and light nuclei. Most of what is below I do for fun.
 
 ## Research projects
 
-The figures are public and the code is private. If you use any of the figures or the code, please cite the repository. If you follow research ethics, I will be happy to work with you and to share the code along with the notes.
-
 | project | what it is |
 |---|---|
-| [Deuteron-Light-Front](https://github.com/satyajitpuhan/Deuteron-Light-Front) | the deuteron on the light front: 19 wave functions, a light-front one-boson-exchange model and the light-front QCD Fock expansion |
-| [Meson-Decays-LFQM](https://github.com/satyajitpuhan/Meson-Decays-LFQM) | every measured meson decay, from the pion to bottomonium, in one light-front quark model |
-| [Generalized-Distribution-Amplitude-of-Pion-from-Light-Front-Quark-Model](https://github.com/satyajitpuhan/Generalized-Distribution-Amplitude-of-Pion-from-Light-Front-Quark-Model) | the pion GDA and Belle γ*γ → π⁰π⁰ |
-| [M2-Multipoles-LFQM](https://github.com/satyajitpuhan/M2-Multipoles-LFQM) | magnetic quadrupole amplitudes in quarkonium radiative transitions |
+| [Deuteron-Light-Front](https://github.com/satyajitpuhan/Deuteron-Light-Front) | the deuteron on the light front: twenty wave functions compared with all data, and my first-principle light-front model |
+| [Vector-Meson-Production-LFQM](https://github.com/satyajitpuhan/Vector-Meson-Production-LFQM) | diffractive ρ, φ, J/ψ and ψ(2S) production from the light-front quark model (arXiv:2609.39647) |
 | [Pion-Kaon-Photon-TDAs-LFQM](https://github.com/satyajitpuhan/Pion-Kaon-Photon-TDAs-LFQM) | pion- and kaon-to-photon transition distribution amplitudes |
-| [Vector-Meson-Production-LFQM](https://github.com/satyajitpuhan/Vector-Meson-Production-LFQM) | diffractive ρ, φ, J/ψ and ψ(2S) production (arXiv:2609.39647) |
-| [Spin-1-TMDs-and-PDFs](https://github.com/satyajitpuhan/Spin-1-TMDs-and-PDFs) | TMDs and PDFs of the ρ meson (Mathematica) |
 
-## Other things
-
-[Front-Form-Live-Wallpaper](https://github.com/satyajitpuhan/Front-Form-Live-Wallpaper) ·
-[Integration-Solver](https://github.com/satyajitpuhan/Integration-Solver) ·
-[Sin-1-x-Vs-PINN-DNN-FNN](https://github.com/satyajitpuhan/Sin-1-x-Vs-PINN-DNN-FNN) ·
-[Bird-From-Math-Equations](https://github.com/satyajitpuhan/Bird-From-Math-Equations)
+Other projects (meson decays, the pion GDA, multipoles, EMT of spin-1 mesons, ...) are private for now. If you use any of the figures or
+the code, please cite the repository. If you follow research ethics, I will be happy to work with you and to share the code along with the notes.
