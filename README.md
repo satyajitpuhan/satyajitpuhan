@@ -16,3 +16,9 @@ mesons, nucleons and light nuclei. Most of what is below I do for fun.
 
 Other projects (meson decays, the pion GDA, multipoles, EMT of spin-1 mesons, ...) are private for now. If you use any of the figures or
 the code, please cite the repository. If you follow research ethics, I will be happy to work with you and to share the code along with the notes.
+
+## Tools
+
+| tool | what it is |
+|---|---|
+| [Curve Fit Bench](https://curvefitbench.github.io/app/) | a free online curve fitter and data fitter for physicists: 440+ physical models, automatic model selection and uncertainties, all in the browser (with Shivani Malvi) |
