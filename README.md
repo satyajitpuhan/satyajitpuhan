@@ -14,7 +14,7 @@ mesons, nucleons and light nuclei. Most of what is below I do for fun.
 | [Vector-Meson-Production-LFQM](https://github.com/satyajitpuhan/Vector-Meson-Production-LFQM) | diffractive ρ, φ, J/ψ and ψ(2S) production from the light-front quark model (arXiv:2609.39647) |
 | [Pion-Kaon-Photon-TDAs-LFQM](https://github.com/satyajitpuhan/Pion-Kaon-Photon-TDAs-LFQM) | pion- and kaon-to-photon transition distribution amplitudes |
 
-Other projects (meson decays, the pion GDA, multipoles, EMT of spin-1 mesons, ...) are private for now. If you use any of the figures or
+Other projects (meson decays, the pion GDA, multipoles, EMT of spin-1 mesons, mechanical distributions of the kaon, ...) are private for now. If you use any of the figures or
 the code, please cite the repository. If you follow research ethics, I will be happy to work with you and to share the code along with the notes.
 
 ## Tools
